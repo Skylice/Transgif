@@ -1,7 +1,7 @@
 # Transgif
 Playing gif with transparent background
 
-With this script you can play any gif with any speed with transparent background.(still works only on windows I'am to lazy **(¬_¬)** )
+With this script you can play any gif with any speed with transparent background.(still works only on windows)
 
 ## How to use this script
 
